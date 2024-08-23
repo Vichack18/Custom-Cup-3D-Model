@@ -1,0 +1,1 @@
+Hi! This is a Custom Cup 3D Model in which I put some things relationated to ARCADE & GitHub, I hope you enjoy. I've shared a .stl file of this project so feel free to use it! I made it on Fusion 360, so you can open the file with Solidworks, ThinkerCAD and others 3D apps.
